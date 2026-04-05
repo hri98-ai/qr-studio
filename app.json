@@ -12,16 +12,14 @@
       "backgroundColor": "#0d0d12"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.yourname.qrstudio",
-      "buildNumber": "1"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0d0d12"
       },
-      "package": "com.yourname.qrstudio",
+      "package": "com.hri98ai.qrstudio",
       "versionCode": 1,
       "permissions": [
         "android.permission.WRITE_EXTERNAL_STORAGE",
@@ -45,3 +43,4 @@
     ],
     "scheme": "qrstudio"
   }
+}
